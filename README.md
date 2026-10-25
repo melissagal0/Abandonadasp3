@@ -1,2 +1,4 @@
 # Abandonadasp3
-equipo de Melissa y Karen 
+García Galindo Melissa 
+
+Martinez Molina Karen 
